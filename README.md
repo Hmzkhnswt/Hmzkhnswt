@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Science, Machine Learning and Deep Learning
 - 🌱 I’m currently studying Computer Systems Engineering at UET Peshawar
 - 💞️ I’m looking to collaborate on AI Projects
-- 📫 You can take any help from me
 
 <!---
 Hmzkhnswt/Hamza Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
