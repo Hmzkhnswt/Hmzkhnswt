@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Ali</h1>
 <h3 align="center">Passionate AI Enthusiast | Exploring the Boundaries of Artificial Intelligence</h3>
-[<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">]
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmzkhnswt&label=Profile%20views&color=0e75b6&style=flat" alt="hmzkhnswt" /> </p>
 
 - 🔭 I’m currently student at **UET Peshawar, Pakistan**
