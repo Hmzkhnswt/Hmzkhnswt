@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Studying **Computer System Engineering**
 
-- 🤝 I’m looking for help with **Data Science & AI projects**
+- 🤝 I’m looking for help with **Data Science, Machine Learning, Deep Learning and NLP**
 
 - 👨‍💻 All of my projects are available at [https://hamzaa-ali.netlify.app/](https://hamzaa-ali.netlify.app/)
 
