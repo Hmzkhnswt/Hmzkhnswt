@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hamzaa-ali.netlify.app/](https://hamzaa-ali.netlify.app/)
 
-- 💬 Ask me about **DS,ML,DL,NLP**
+- 💬 Ask me about **DS,ML,DL,NLP,Computer Vision**
 
 - 📫 How to reach me **hamzakhanswati117191@gmail.com**
 
