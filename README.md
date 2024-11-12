@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I am Hamza Ali</h1>
-<h3 align="center">AI Engineer @ Octaloop</h3>
+<h3 align="center">AI/ML Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmzkhnswt&label=Profile%20views&color=0e75b6&style=flat" alt="hmzkhnswt" /> </p>
 
 - 🔭 I’m currently student at **UET Peshawar, Pakistan**
